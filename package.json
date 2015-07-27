@@ -1,0 +1,25 @@
+{
+  "name": "sounds_like",
+  "version": "1.0.0",
+  "description": "A way to find sounds",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bomatson/sounds_like.git"
+  },
+  "keywords": [
+    "sounds",
+    "audio",
+    "node",
+    "react"
+  ],
+  "author": "Bobby Matson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bomatson/sounds_like/issues"
+  },
+  "homepage": "https://github.com/bomatson/sounds_like#readme"
+}
